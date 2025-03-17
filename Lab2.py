@@ -57,7 +57,7 @@ print()
 
 # 2. continue
 for value in [ "I" , "Am" , "Usman" , "Bughti" ] :
-    if ( value == "Fahad" ) :
+    if ( value == "Usman" ) :
         continue
     print( value )
     
